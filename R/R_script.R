@@ -265,4 +265,3 @@ equality <- function(r1,r2){
 }
 equality(b,d)
 
-
