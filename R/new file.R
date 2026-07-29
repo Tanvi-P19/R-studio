@@ -1,0 +1,5 @@
+library(usethis)
+use_r("R_script")
+library(tidyverse)
+use_git()
+use_github()
